@@ -1,0 +1,26 @@
+data/cleaning_dashapp.ipynb
+reports/app.ipynb
+reports/test.ipynb
+venv_global/
+venv_df/
+torch_tf/
+Bücher/
+src/*[~$]*
+Schreiben/
+notebooks/lightning_logs
+notebooks/modelling_tensor.ipynb
+notebooks/modelling_tensor.py
+notebooks/modelling_torch.ipynb
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+README-vorlage.md
+
+notebooks/best_random_forest_model_without_weather.pkl
+notebooks/best_xgboost_model_without_weather.pkl
+notebooks/prophet_model_without_weather.pkl
+notebooks/gru_model_without_weather.pth
+notebooks/lstm_model_without_weather.pth

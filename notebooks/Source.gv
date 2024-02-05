@@ -1,0 +1,20 @@
+0:[Verkehr_vor_einer_Woche<447.5] yes=1,no=2,missing=1
+	1:[Verkehrs_Differenz<81.5] yes=3,no=4,missing=3
+		3:[Verkehr_vor_einer_Woche<177.5] yes=7,no=8,missing=7
+			7:[Verkehr_vor_einer_Woche<81.5] yes=15,no=16,missing=15
+720:[Berufsverkehr] yes=766,no=765
+533:[Berufsverkehr] yes=616,no=615
+344:[Berufsverkehr] yes=466,no=465
+			8:[Verkehr_vor_einer_Woche<299.5] yes=17,no=18,missing=17
+367:[Top4_letzte_Woche] yes=488,no=487
+641:[Berufsverkehr] yes=700,no=699
+		4:[Verkehrs_Differenz<373.5] yes=9,no=10,missing=9
+			9:[Verkehr_vor_einer_Woche<251.5] yes=19,no=20,missing=19
+			10:[Verkehrs_Differenz<610.5] yes=21,no=22,missing=21
+	2:[Verkehr_vor_einer_Woche<914.5] yes=5,no=6,missing=5
+		5:[Verkehrs_Differenz<55.5] yes=11,no=12,missing=11
+			11:[Verkehr_vor_einer_Woche<680.5] yes=23,no=24,missing=23
+			12:[Verkehrs_Differenz<316.5] yes=25,no=26,missing=25
+		6:[Verkehrs_Differenz<-431.5] yes=13,no=14,missing=13
+			13:[Verkehrs_Differenz<-701] yes=27,no=28,missing=27
+			14:[Verkehr_vor_einer_Woche<1269.5] yes=29,no=30,missing=29
